@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astarinamaulida
-- 🌱 I’m a full stack developer
+- 🌱 I’m a software engineer
 - 💞️ I have unique perspectives from my web development diploma, business acumen and logic from my finance business bachelor, and design from my fashion design diploma
 - 📫 How to reach me astarina.maulida@gmail.com
 
