@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astarinamaulida
+- 👋 Hi, I’m Asta
 - 🌱 I’m a software engineer at [Rocket Science Development](https://rocketscience.one/)
 - 💞️ I have unique perspectives from my web development diploma, business acumen and logic from my finance business bachelor, and design from my fashion design diploma
 - 📚 I love books and enjoy my weekly library visit. I also love to travel and learn new languages, halo! ciao! bonjour! hola! kia ora! privet! salaam! anyeong haseyo! ni hao! konnichiwa! hello! hallo! namaste! Do not hesitate to reach me to have a chit chat in different languages, I love it! 😊
