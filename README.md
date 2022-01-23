@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asta
-- 🌱 I’m a software engineer at [Rocket Science Development](https://rocketscience.one/)
+- 🌱 I’m a software engineer - frontend & UIUX developer at [Rocket Science Development](https://rocketscience.one/)
 - 🔨 I'm currently learning Typescript, Gatsby, C#, and TailwindCSS and my current project is a cute paint app with React and TailwindCSS. Check it out [here ✨](https://github.com/astarinamaulida/drawit)
 - 💞️ I have unique perspectives from my web development diploma, business acumen and logic from my finance business bachelor, and design from my fashion design diploma
 - 📚 I love books and enjoy my weekly library visit. I also love to travel and learn new languages, halo! ciao! bonjour! hola! kia ora! privet! salaam! anyeong haseyo! ni hao! konnichiwa! hello! hallo! namaste! Do not hesitate to reach me to have a chit chat in different languages, I love it! 😊
