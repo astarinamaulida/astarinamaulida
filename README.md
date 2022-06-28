@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asta
-- 🔨 I'm currently learning Typescript, Gatsby, C#, and TailwindCSS.
+- 🔨 I am a React developer using Javascript & currently learning Typescript.
 - 💞️ I have unique perspectives from my web development diploma, business acumen and logic from my finance business bachelor, and design from my fashion design diploma
 - 📚 I love books and enjoy my weekly library visit. I also love to travel and learn new languages, halo! ciao! bonjour! hola! kia ora! privet! salaam! anyeong haseyo! ni hao! konnichiwa! hello! hallo! namaste! Do not hesitate to reach me to have a chit chat in different languages, I love it! 😊
 - 🎨 My portfolio: [www.astarinamaulida.com](http://astarinamaulida.com)
