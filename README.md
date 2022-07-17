@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asta
 - 📚 I love books and enjoy my weekly library visit.
-- ❤️  My language is Javascript and my fav is React
+- ❤️  My language is Javascript and my fav library is React
 - 🗣 I love to travel and learn new languages, halo! ciao! bonjour! hola! kia ora! privet! salaam! anyeong haseyo! ni hao! konnichiwa! hello! hallo! namaste! Do not hesitate to reach me to have a chit chat in different languages, I love it! 😊
 - 🎨 My portfolio: [www.astarinamaulida.com](http://astarinamaulida.com)
 
